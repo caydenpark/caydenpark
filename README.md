@@ -1,6 +1,6 @@
 <!---<h1 align="center">Hi 👋, I'm Cayden Park</h1>
 <h3 align="center">Software Engineer</h3>--->
-# Cayden Park | Software Engineer
+# Cayden Park
 
 `func graduate(bachelors, softwareEngineering, Brigham Young University Idaho, 2024)`
 
